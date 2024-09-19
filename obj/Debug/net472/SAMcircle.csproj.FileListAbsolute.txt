@@ -1,0 +1,17 @@
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.csproj.AssemblyReference.cache
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.IgnoresAccessChecksTo.cs
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\SAMcircle.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\SAMcircle.pdb
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\AsmResolver.DotNet.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\AsmResolver.PE.File.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\AsmResolver.PE.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\AsmResolver.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\BepInEx.AssemblyPublicizer.MSBuild.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\BepInEx.AssemblyPublicizer.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\mscorlib.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\bin\Debug\net472\VTOLAPI.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.csproj.Up2Date
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.dll
+C:\Users\spide\source\repos\VTOLVR\SAMcircle\SAMcircle\obj\Debug\net472\SAMcircle.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyBYHeg81D4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spide\\source\\repos\\VTOLVR\\SAMcircle\\SAMcircle\\SAMcircle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spide\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

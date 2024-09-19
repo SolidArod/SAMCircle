@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://gitlab.com/vtolvr-mods/ModLoader/-/raw/release/schema.json",
+  "Title": "TSD SAM Circle",
+  "Description": "Shows estimated range of a SAM's radar based on your current radar cross section. Updates in real time as you lose external weaponry ",
+  "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
+  "MetaData": {
+    "DllName": "SAMcircle.dll",
+    "AllowLoadOnStart": true,
+    "ShowOnMainList": true,
+    "DllHash": ""
+  }
+}
